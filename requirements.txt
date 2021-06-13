@@ -1,2 +1,3 @@
 flask
 opencv-python
+gunicorn==19.9.0
